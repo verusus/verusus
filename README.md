@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Salhi abdelhamid or call me @verusus
+- 👋 Hi, I’m Salhi abdelhamid or call me @verusus & I am a developer.
 - 👀 I’m interested in programming languages (especially python, java, jee, CSharp), in Ai(Machine learning, Computer Vision, NLP) and data science.
 - 🌱 I’m currently collaborating on many java & python projects and I've worked on more than 50 amazing projects now🥇.
 - 💞️ I’m looking to collaborate on new programming projects🤝🏻.
