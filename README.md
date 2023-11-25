@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Salhi abdelhamid or call me @verusus & I am a Pro Python Developer.
-- 👀 I’m interested in automation, web scraping, data science & data mining.
+- 👀 I’m interested in automation, web scraping, data science, data mining, Rest API & web apps.
 - 🌱 I’m currently collaborating on many python projects and I've worked on more than 100 amazing projects now🥇.
 - 💞️ I’m looking to collaborate on new programming projects🤝🏻.
 - 📫 How to reach me: essalhi12345@gmail.com or on whatsapp +212-618732987 (You can request my updated resume📄 and you'll have it in less than 24hours!)
